@@ -1,0 +1,5 @@
+Ok I went about this 2 ways:
+The first one I merged the commits themselves
+The second I merged the branches
+I am not sure if the 2 are different in anyway but I did them both. 
+
